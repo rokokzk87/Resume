@@ -23,7 +23,7 @@
 
 работа с библиотеками машинного обучения в Python
 
-### Mashine learning
+### Machine learning
 
 Решение задач регрессии, классификации, кластеризации при помощи библиотек Scikit learn,XGBoost, Pycaret, Autogluon.
 
